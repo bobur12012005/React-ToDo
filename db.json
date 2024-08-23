@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "id": "dc2f",
+      "title": "New Job",
+      "description": "Looking for a new job, to get more salary",
+      "select": "work",
+      "date": "2024-09-01"
+    },
+    {
+      "id": "a8c6",
+      "title": "Canadian College",
+      "description": "Apply for a Canadian College or University this Winter",
+      "select": "study",
+      "date": "2024-12-01"
+    }
+  ]
+}
